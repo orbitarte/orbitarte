@@ -1,0 +1,73 @@
+# Site
+name: "OrbitArte"
+title: "OrbitArte"
+description: "Incanalare le energie verso un’esperibilità del patrimonio culturale ed artistico."
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/logo.png'
+baseurl: /
+google_analytics: 'UA-141752858-1'
+disqus: 'orbitarte'
+mailchimp-list: 'https://orbitarte.us19.list-manage.com/subscribe/post?u=b64078650d3229899ee64021b&amp;id=257144206d'
+include: ["_pages"]
+permalink: /:title/
+
+# Authors
+authors:
+  liliana:
+    name: Liliana Spadaro
+    display_name: Liliana Spadaro
+    avatar: 'assets/images/liliana.png'
+    email: associazioneorbitarte@gmail.com
+    web: https://www.orbitarte.it
+    twitter: https://twitter.com/OrbitArte
+    instagram: https://www.instagram.com/associazioneorbitarte/
+    facebook: https://facebook.com/associazioneorbitarte
+    description: "Storica dell’arte e dottoranda, con specializzazione in arte contemporanea. Tra i suoi interessi principali ci sono le ultime tendenze dell’arte contemporanea, dal Pop Surrealism alla Street Art."
+  greta:
+    name: Greta Rocchino
+    display_name: Greta Rocchino  
+    avatar: 'assets/images/greta.png'
+    email: associazioneorbitarte@gmail.com
+    web: https://www.orbitarte.it
+    twitter: https://twitter.com/OrbitArte
+    description: "Storica dell’arte, specializzata in arte bizantina all’Università La Sapienza. Specializzata in archeologia e medioevo."
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
+    
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
+    
+# Pagination 
+paginate: 6
+paginate_path: /page:num/
+    
+# Other
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true
+
+# Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
+adsense: "disabled"
+adsense-data-ad-client: "ca-pub-3412143450191416"
+adsense-data-ad-slot: "1363087678"
+
+# Lazy Images ("enabled" or "disabled")
+lazyimages: "disabled"
+
+exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
