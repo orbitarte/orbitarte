@@ -41,6 +41,6 @@ Little Pink Ink Monsters, del 2007, vede protagonista invece una ragazzina andro
 
 (3) Ibidem
 
-![The Helicopter (2010)](/web/assets/images/camilladerrico_thehelicopter.jpg)
+![The Helicopter (2010)](/assets/images/camilladerrico_thehelicopter.jpg)
 
-![Playful Bunny](/web/assets/images/camilladerrico_PlayfulBunny.jpg)
+![Playful Bunny](/assets/images/camilladerrico_PlayfulBunny.jpg)
