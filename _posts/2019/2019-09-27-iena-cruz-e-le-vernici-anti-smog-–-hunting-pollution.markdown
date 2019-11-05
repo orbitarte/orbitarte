@@ -48,10 +48,12 @@ Questo tipo di progetti in realtà generano riflessioni contrastanti: viene da c
 
 Sarebbe bello, in finale, se anche altri imprenditori, ‘palazzinari’ come vengono chiamati a Roma, e mecenati di vario genere, decidessero di investire in riqualificazioni di questo tipo. Il lato indubbiamente decorativo dell’azione sarebbe pieno di significato. La street art assumerebbe in tal modo non solo un ruolo di comunicazione e unione comunitaria, ma assolverebbe anche a un importante scopo sociale, quello riguardante l’ecosostenibilità delle imprese e dei materiali. Chissà che un giorno grigie periferie possano diventare colorati polmoni ecologici.
 
-![](/web/assets/images/ienacruz_1.jpg)
+![](/assets/images/ienacruz_1.jpg)
 
-![](/web/assets/images/ienacruz2.jpg)
+![](/assets/images/ienacruz2.jpg)
 
-![](/web/assets/images/ienacruz5.jpg)
+![](/assets/images/ienacruz5.jpg)
 
-![](/web/assets/images/ienacruz6.jpg)
+![](/assets/images/ienacruz6.jpg)
+
+![](/assets/images/ienacruz7.jpg)
