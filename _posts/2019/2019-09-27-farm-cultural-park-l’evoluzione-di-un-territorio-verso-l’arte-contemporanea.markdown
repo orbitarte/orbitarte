@@ -77,10 +77,10 @@ Farm è integrazione, indipendenza e innovazione, arte e cultura, affrancamento 
 Non sempre è impossibile conciliare innovazione, arte e tradizione architettonica, questo è un esempio felice.
 
 
-![](/assets/images/farm1.jpg)
+![](/orbitarte/assets/images/farm1.jpg)
 
-![](/assets/images/farm2.jpg)
+![](/orbitarte/assets/images/farm2.jpg)
 
-![](/assets/images/farm3.jpg)
+![](/orbitarte/assets/images/farm3.jpg)
 
-![](/assets/images/farm4.jpg)
+![](/orbitarte/assets/images/farm4.jpg)
