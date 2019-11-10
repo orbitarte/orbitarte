@@ -30,7 +30,7 @@ comments: true
 <h5>Staff</h5>
 
 <h4>Liliana Spadaro</h4>
-<img src="/assets/images/liliana.png">
+<img src="/assets/images/liliana.png" width="75" height="75">
 Storica dell’arte e curatrice, con specializzazione in Arte contemporanea. Tra i suoi interessi principali ci sono le ultime tendenze dal Pop Surrealism alla Street Art. Organizzatrice di eventi e conferenze.
 
 <h4>Greta Rocchino</h4>
