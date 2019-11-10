@@ -25,21 +25,21 @@ comments: true
 </div>
 
 <div class="col-md-4">
-
+<style>
+img {
+  border-radius: 50%;
+}
+</style>
 <div class="sticky-top sticky-top-80">
 <h5>Staff</h5>
 
 <h4>Liliana Spadaro</h4>
-<img src="assets/images/liliana.png" width="75" height="75">
+<img src="assets/images/liliana.png" width="75" height="75" align="center">
 <p>Storica dell’arte e curatrice, con specializzazione in Arte contemporanea. Tra i suoi interessi principali ci sono le ultime tendenze dal Pop Surrealism alla Street Art. Organizzatrice di eventi e conferenze.</p>
 
 <h4>Greta Rocchino</h4>
-<img src="/assets/images/greta.png">
-Storica dell’arte e accompagnatrice turistica, specializzata in arte medievale. I suoi interessassi spaziano dall’Arte medievale all’Arte moderna, con un focus particolare sull’archeologia.
-
-<p>Thank you for your support! Your donation helps me to maintain and improve <a target="_blank" href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Mediumish <i class="fab fa-github"></i></a>.</p>
-
-<a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning">Documentation</a>
+<img src="assets/images/greta.png" width="75" height="75" align="center">
+<p>Storica dell’arte e accompagnatrice turistica, specializzata in arte medievale. I suoi interessassi spaziano dall’Arte medievale all’Arte moderna, con un focus particolare sull’archeologia.</p>
 
 </div>
 </div>
