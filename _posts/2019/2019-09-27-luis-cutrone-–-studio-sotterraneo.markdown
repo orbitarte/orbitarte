@@ -3,7 +3,7 @@ layout: "post"
 title: "Luis Cutrone – Studio Sotterraneo"
 date: "2019-09-27 17:47"
 author: liliana
-image: /assets/images/cutrone_copertina_2.jpg
+image: assets/images/cutrone_copertina_2.jpg
 categories:
   - Blog
 tags:

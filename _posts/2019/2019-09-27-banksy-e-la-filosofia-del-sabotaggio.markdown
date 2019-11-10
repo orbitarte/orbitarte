@@ -3,7 +3,7 @@ layout: "post"
 title: "Banksy e la filosofia del sabotaggio"
 date: "2019-09-27 16:47"
 author: liliana
-image: /assets/images/copertina_banksy.jpg
+image: assets/images/copertina_banksy.jpg
 categories:
   - Blog
 tags:

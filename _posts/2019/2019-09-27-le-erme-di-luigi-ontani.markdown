@@ -3,7 +3,7 @@ layout: "post"
 title: "Le erme di Luigi Ontani"
 date: "2019-09-27 18:06"
 author: liliana
-image: /assets/images/ontani_copertina.jpg
+image: assets/images/ontani_copertina.jpg
 categories:
   - Blog
 tags:

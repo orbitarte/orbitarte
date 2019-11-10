@@ -3,7 +3,7 @@ layout: "post"
 title: "L’arte contemporanea e i manga. Il caso Camilla d’Errico."
 date: "2019-09-27 18:21"
 author: liliana
-image: /assets/images/copertina_camilladerrico.jpg
+image: assets/images/copertina_camilladerrico.jpg
 categories:
   - Blog
 tags:
@@ -41,6 +41,6 @@ Little Pink Ink Monsters, del 2007, vede protagonista invece una ragazzina andro
 
 (3) Ibidem
 
-![The Helicopter (2010)](/orbitarte/assets/images/camilladerrico_thehelicopter.jpg)
+![The Helicopter (2010)](/assets/images/camilladerrico_thehelicopter.jpg)
 
-![Playful Bunny](/orbitarte/assets/images/camilladerrico_PlayfulBunny.jpg)
+![Playful Bunny](/assets/images/camilladerrico_PlayfulBunny.jpg)

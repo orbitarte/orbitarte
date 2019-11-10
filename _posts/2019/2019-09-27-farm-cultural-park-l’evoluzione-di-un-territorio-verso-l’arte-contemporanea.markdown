@@ -3,7 +3,7 @@ layout: "post"
 title: "Farm Cultural Park, l’evoluzione di un territorio verso l'arte contemporanea"
 date: "2019-09-27 15:36"
 author: liliana
-image: /assets/images/copertina_farm.jpg
+image: assets/images/copertina_farm.jpg
 categories:
   - Blog
 tags:
@@ -77,10 +77,10 @@ Farm è integrazione, indipendenza e innovazione, arte e cultura, affrancamento 
 Non sempre è impossibile conciliare innovazione, arte e tradizione architettonica, questo è un esempio felice.
 
 
-![](/orbitarte/assets/images/farm1.jpg)
+![](/assets/images/farm1.jpg)
 
-![](/orbitarte/assets/images/farm2.jpg)
+![](/assets/images/farm2.jpg)
 
-![](/orbitarte/assets/images/farm3.jpg)
+![](/assets/images/farm3.jpg)
 
-![](/orbitarte/assets/images/farm4.jpg)
+![](/assets/images/farm4.jpg)
