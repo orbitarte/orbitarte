@@ -46,6 +46,6 @@ Organizzatrice di eventi e conferenze.
 <p>Storica dell’arte e accompagnatrice turistica, specializzata in arte medievale.
 <br>
 I suoi interessassi spaziano dall’Arte medievale all’Arte moderna, con un focus particolare sull’archeologia.</p>
-</div>
+
 </div>
 </div>
