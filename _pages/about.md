@@ -47,5 +47,3 @@ Organizzatrice di eventi e conferenze.
 <br>
 I suoi interessassi spaziano dall’Arte medievale all’Arte moderna, con un focus particolare sull’archeologia.</p>
 
-</div>
-</div>
