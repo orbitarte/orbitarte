@@ -3,7 +3,7 @@ title: 'Broken Nature: Design Takes on Human Survival'
 date: 2019-05-20T10:40:27+00:00
 author: liliana
 layout: post
-image: /assets/images/header_broken.png
+image: assets/images/header_broken.png
 categories:
   - Blog
 tags:
@@ -91,46 +91,46 @@ C’è anche un elemento prettamente ecologico in ‘Capsula Mundi’, e nasce d
 
 Broken Nature è un esperimento volto a generare riflessioni e a mobilitare lo sviluppo economico tramite fruttuose relazioni interdisciplinari, come quelle tra ingegneri e designers, biologi e studiosi di scienze sociali, matematici e artigiani. Le nuove tecnologie prese in esame ci costringono a immaginare un avvenire che seppur lontano potrebbe nascondere problemi di enorme portata. Immaginando scenari drammatici e soluzioni tecnologiche plausibili forse l’uomo potrà arrivare nel futuro con una preparazione tale da sopravvivere a se stesso.
 
-![Entrata dell'esposizione](/orbitarte/assets/images/entrata_triennale.png)
+![Entrata dell'esposizione](/assets/images/entrata_triennale.png)
 
 Entrata dell'esposizione
 
-![Designs for an Overpopulated Planet: Foragers, 2009.](/orbitarte/assets/images/IMG_2388.png)
+![Designs for an Overpopulated Planet: Foragers, 2009.](/assets/images/IMG_2388.png)
 
 Designs for an Overpopulated Planet: Foragers, 2009.
 
-![The Fallacy of Closed System, 2017 [Malfictions].](/orbitarte/assets/images/IMG_2394.png)
+![The Fallacy of Closed System, 2017 [Malfictions].](/assets/images/IMG_2394.png)
 
 The Fallacy of Closed System, 2017 [Malfictions].
 
-![Capsula Mundi, 2003.](/orbitarte/assets/images/IMG_2400.png)
+![Capsula Mundi, 2003.](/assets/images/IMG_2400.png)
 
 Capsula Mundi, 2003.
 
-![Capsula Mundi, 2003.](/orbitarte/assets/images/IMG_2401.png)
+![Capsula Mundi, 2003.](/assets/images/IMG_2401.png)
 
 Capsula Mundi, 2003.
 
-![Capsula Mundi, 2003.](/orbitarte/assets/images/IMG_2405.png)
+![Capsula Mundi, 2003.](/assets/images/IMG_2405.png)
 
 Capsula Mundi, 2003.
 
-![Reliquaries, 2018.](/orbitarte/assets/images/IMG_2376.png)
+![Reliquaries, 2018.](/assets/images/IMG_2376.png)
 
 Reliquaries, 2018.
 
-![Plastiglomerate, 2013.](/orbitarte/assets/images/IMG_2372.png)
+![Plastiglomerate, 2013.](/assets/images/IMG_2372.png)
 
 Plastiglomerate, 2013.
 
-![Installazione per Nanohana Heels.](/orbitarte/assets/images/IMG_2377-1.png)
+![Installazione per Nanohana Heels.](/assets/images/IMG_2377-1.png)
 
 Installazione per Nanohana Heels.
 
-![Nanohana Heels, 2012.](/orbitarte/assets/images/IMG_2378-1.png)
+![Nanohana Heels, 2012.](/assets/images/IMG_2378-1.png)
 
 Nanohana Heels, 2012.
 
-![Geomerce, 2015.](/orbitarte/assets/images/IMG_2386.png)
+![Geomerce, 2015.](/assets/images/IMG_2386.png)
 
 Geomerce, 2015.
