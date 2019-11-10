@@ -30,10 +30,12 @@ comments: true
 <h5>Staff</h5>
 
 <h4>Liliana Spadaro</h4>
-<img src="/web/assets/images/liliana.png">
+<img src="/assets/images/liliana.png">
+Storica dell’arte e curatrice, con specializzazione in Arte contemporanea. Tra i suoi interessi principali ci sono le ultime tendenze dal Pop Surrealism alla Street Art. Organizzatrice di eventi e conferenze.
 
 <h4>Greta Rocchino</h4>
-<img src="/web/assets/images/greta.png">
+<img src="/assets/images/greta.png">
+Storica dell’arte e accompagnatrice turistica, specializzata in arte medievale. I suoi interessassi spaziano dall’Arte medievale all’Arte moderna, con un focus particolare sull’archeologia.
 
 <p>Thank you for your support! Your donation helps me to maintain and improve <a target="_blank" href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Mediumish <i class="fab fa-github"></i></a>.</p>
 
