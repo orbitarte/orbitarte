@@ -2,7 +2,6 @@
 layout: page
 title: Chi siamo
 permalink: /about
-author: liliana
 comments: true
 ---
 
@@ -31,8 +30,8 @@ comments: true
 <h5>Staff</h5>
 
 <h4>Liliana Spadaro</h4>
-<img src="/assets/images/liliana.png" width="75" height="75">
-Storica dell’arte e curatrice, con specializzazione in Arte contemporanea. Tra i suoi interessi principali ci sono le ultime tendenze dal Pop Surrealism alla Street Art. Organizzatrice di eventi e conferenze.
+<img src="assets/images/liliana.png" width="75" height="75">
+<p>Storica dell’arte e curatrice, con specializzazione in Arte contemporanea. Tra i suoi interessi principali ci sono le ultime tendenze dal Pop Surrealism alla Street Art. Organizzatrice di eventi e conferenze.</p>
 
 <h4>Greta Rocchino</h4>
 <img src="/assets/images/greta.png">
