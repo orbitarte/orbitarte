@@ -30,10 +30,10 @@ comments: true
 <h5>Staff</h5>
 
 <h4>Liliana Spadaro</h4>
-![](/web/assets/images/liliana.png)
+<img src="/web/assets/images/liliana.png">
 
 <h4>Greta Rocchino</h4>
-[]!(/web/assets/images/greta.png)
+<img src="/web/assets/images/greta.png">
 
 <p>Thank you for your support! Your donation helps me to maintain and improve <a target="_blank" href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Mediumish <i class="fab fa-github"></i></a>.</p>
 
