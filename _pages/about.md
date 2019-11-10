@@ -2,6 +2,7 @@
 layout: page
 title: Chi siamo
 permalink: /about
+author: liliana
 comments: true
 ---
 
