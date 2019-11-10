@@ -3,7 +3,7 @@ layout: "post"
 title: "Iena Cruz e le vernici anti smog – Hunting Pollution"
 date: "2019-09-27 16:19"
 author: liliana
-image: /assets/images/ienacruz_copertina.jpg
+image: assets/images/ienacruz_copertina.jpg
 categories:
   - Blog
 tags:
