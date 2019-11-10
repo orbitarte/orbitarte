@@ -35,9 +35,11 @@ img {
 
 <h4>Liliana Spadaro</h4>
 <img src="assets/images/liliana.png" width="75" height="75" align="center">
-<p>Storica dell’arte e curatrice, con specializzazione in Arte contemporanea.</p>
-<p>Tra i suoi interessi principali ci sono le ultime tendenze dal Pop Surrealism alla Street Art.</p>
-<p>Organizzatrice di eventi e conferenze.</p>
+<p>Storica dell’arte e curatrice, con specializzazione in Arte contemporanea.
+</ br>
+Tra i suoi interessi principali ci sono le ultime tendenze dal Pop Surrealism alla Street Art.
+</ br>
+Organizzatrice di eventi e conferenze.
 
 <h4>Greta Rocchino</h4>
 <img src="assets/images/greta.png" width="75" height="75" align="center">
