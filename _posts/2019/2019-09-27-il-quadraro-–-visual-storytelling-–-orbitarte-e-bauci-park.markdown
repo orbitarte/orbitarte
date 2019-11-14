@@ -3,7 +3,7 @@ layout: "post"
 title: "Il Quadraro – Visual Storytelling – OrbitArte e Bauci Park"
 date: "2019-09-27 16:39"
 author: liliana
-image: /assets/images/copertina_quadraro.jpg
+image: assets/images/copertina_quadraro.jpg
 categories:
   - Blog
 tags:

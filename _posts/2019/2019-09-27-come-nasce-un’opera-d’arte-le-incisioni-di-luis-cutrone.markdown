@@ -3,7 +3,7 @@ layout: "post"
 title: "Come nasce un’opera d’arte: le incisioni di Luis Cutrone"
 date: "2019-09-27 17:20"
 author: liliana
-image: /assets/images/cutrone_copertina.jpg
+image: assets/images/cutrone_copertina.jpg
 categories:
   - Blog
 tags:

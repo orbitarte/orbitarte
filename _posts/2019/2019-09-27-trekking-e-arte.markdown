@@ -3,7 +3,7 @@ layout: "post"
 title: "Trekking e arte"
 date: "2019-09-27 17:31"
 author: liliana
-image: /assets/images/trekking_copertina.jpg
+image: assets/images/trekking_copertina.jpg
 categories:
   - escursioni
 tags:

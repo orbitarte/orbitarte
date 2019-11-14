@@ -3,7 +3,7 @@ layout: "post"
 title: "Bernard Berenson. Introduzione al pensiero."
 date: "2019-09-27 17:05"
 author: liliana
-image: /assets/images/berenson_copertina.jpg
+image: assets/images/berenson_copertina.jpg
 categories:
   - Blog
 tags:
