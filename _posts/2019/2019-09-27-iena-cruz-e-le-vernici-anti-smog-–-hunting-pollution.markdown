@@ -50,7 +50,7 @@ Sarebbe bello, in finale, se anche altri imprenditori, ‘palazzinari’ come ve
 
 ![](/assets/images/ienacruz_1.jpg)
 
-![](assets/images/ienacruz2.jpg)
+![](/assets/images/ienacruz2.jpg)
 
 ![](/assets/images/ienacruz5.jpg)
 
