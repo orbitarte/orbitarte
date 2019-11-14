@@ -99,7 +99,7 @@ Entrata dell'esposizione
 
 Designs for an Overpopulated Planet: Foragers, 2009.
 
-![The Fallacy of Closed System, 2017 [Malfictions].](/assets/images/IMG_2394.png)
+![The Fallacy of Closed System, 2017 Malfictions.](/assets/images/IMG_2394.png)
 
 The Fallacy of Closed System, 2017 [Malfictions].
 
