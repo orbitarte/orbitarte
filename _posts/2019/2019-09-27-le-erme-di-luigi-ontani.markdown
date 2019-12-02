@@ -58,3 +58,10 @@ Le ErmEstetiche, come del resto tutta l’opera ontaniana, vanno prese così, co
 (3) C. G. Jung, “Immagine e parola”, Roma, 2003, passim.
 
 (4) C. G. Jung, “Gli archetipi e l’inconscio collettivo”, in “Opere” Boringhieri, vol. IX, tomo primo, Torino, 1980, passim.
+
+
+![ErmEstetica SanSebastianoSagittario](/assets/images/ermestetica-sansebastianosagittario.jpg)
+
+![ErmEstetica Pythagorica](/assets/images/ermestetica-pythagorica.jpg)
+
+![ErmEstetica DellArma](/web/assets/images/ermestetica-dellarma.jpg)
