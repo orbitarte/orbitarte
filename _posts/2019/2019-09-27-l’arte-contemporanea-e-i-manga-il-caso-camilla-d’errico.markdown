@@ -43,7 +43,9 @@ Little Pink Ink Monsters, del 2007, vede protagonista invece una ragazzina andro
 
 ![Overture of Grace](/assets/images/Overtures_of_Grace.jpg)
 
-![Hello Kitty Helmetgirl](/web//assets/images/Hello-Kitty-Helmetgirl.jpg)
+![Overture of Grace](/assets/images/Overtures_of_Grace.jpg)
+
+![Hello Kitty Helmetgirl](/assets/images/Hello-Kitty-Helmetgirl.jpg)
 
 ![Little pink ink monster](/assets/images/Little_Pink_Ink_Monsters.jpg)
 
