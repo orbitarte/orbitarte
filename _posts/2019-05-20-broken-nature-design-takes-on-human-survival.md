@@ -92,7 +92,7 @@ C’è anche un elemento prettamente ecologico in ‘Capsula Mundi’, e nasce d
 Broken Nature è un esperimento volto a generare riflessioni e a mobilitare lo sviluppo economico tramite fruttuose relazioni interdisciplinari, come quelle tra ingegneri e designers, biologi e studiosi di scienze sociali, matematici e artigiani. Le nuove tecnologie prese in esame ci costringono a immaginare un avvenire che seppur lontano potrebbe nascondere problemi di enorme portata. Immaginando scenari drammatici e soluzioni tecnologiche plausibili forse l’uomo potrà arrivare nel futuro con una preparazione tale da sopravvivere a se stesso.
 
 ![Entrata dell'esposizione](/assets/images/entrata_triennale.png)
-
+.
 Entrata dell'esposizione
 
 ![Designs for an Overpopulated Planet: Foragers, 2009.](/assets/images/IMG_2388.png)
