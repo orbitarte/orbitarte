@@ -64,4 +64,4 @@ Le ErmEstetiche, come del resto tutta l’opera ontaniana, vanno prese così, co
 
 ![ErmEstetica Pythagorica](/assets/images/ermestetica-pythagorica.jpg)
 
-![ErmEstetica DellArma](/web/assets/images/ermestetica-dellarma.jpg)
+![ErmEstetica DellArma](/assets/images/ermestetica-dellarma.jpg)
