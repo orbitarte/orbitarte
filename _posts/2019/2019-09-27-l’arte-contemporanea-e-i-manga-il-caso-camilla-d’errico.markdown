@@ -43,7 +43,7 @@ Little Pink Ink Monsters, del 2007, vede protagonista invece una ragazzina andro
 
 ![Overtures of Grace](/assets/images/Overtures_of_Grace.jpg)
 
-![Little Pink Ink Monster](/assets/images/Little_Pink_Ink_Monsters.jpg)
+![Little Pink Ink Monsters](/assets/images/Little_Pink_Ink_Monsters.jpg)
 
 ![The Helicopter (2010)](/assets/images/camilladerrico_thehelicopter.jpg)
 
