@@ -98,3 +98,12 @@ Lo spazio e il tempo come li percepiamo sono solo un’illusione, un bluff, la r
 Lo spostamento dimensionale, dalla bidimensione alla quarta dimensione, porta con sé importanti capovolgimenti del senso di spazialità: tutto lo spazio su cui opera l’artista diventa opera stessa, viene invaso da forme e colori che ne alterano il rapporto con l’osservatore; che siano opere bidimensionali o sculture, esse interagiscono con lo spazio, diventando un tutt’uno con il punto di vista dinamico del fruitore.
 
 In questo senso l’opera di Cutrone risulta complessa e in via di evoluzione. La riflessione sulla quarta dimensione procede, si evolve, e l’esposizione rappresenta il punto di sintesi, la volontà di rappresentare un universo caotico mentale in un sistema intellegibile, in cui il percorso fatto si esprime chiaramente e la strada da percorrere si manifesta già in stadio embrionale.
+
+
+![](/assets/images/luiscutrone1.jpg)
+
+![](/assets/images/Cutrone3.jpg)
+
+![](/assets/images/Cutrone4.jpg)
+
+![](/assets/images/Cutrone5.jpg)
