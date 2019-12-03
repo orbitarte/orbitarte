@@ -86,3 +86,17 @@ Il quinto e ultimo giorno è evidente che ormai tra le guide e il gruppo si sia 
 I cinque giorni si concludono così, un’esperienza estremamente positiva, che rappresentava una sfida, la possibilità di mettere in gioco conoscenze e resistenza fisica. La ripeteremo a breve.
 
 Per info, potete trovare la nostra guida escursionistica, Fabio Salati, su Facebook.
+
+![](assets/images/trekking1.jpg)
+
+![](assets/images/trekking2.jpg)
+
+![](assets/images/trekking3.jpg)
+
+![](assets/images/trekking4.jpg)
+
+![](assets/images/trekking5.jpg)
+
+![](assets/images/trekking6.jpg)
+
+![](assets/images/trekking7.jpg)
