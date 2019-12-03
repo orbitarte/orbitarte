@@ -88,15 +88,3 @@ I cinque giorni si concludono così, un’esperienza estremamente positiva, che 
 Per info, potete trovare la nostra guida escursionistica, Fabio Salati, su Facebook.
 
 ![](assets/images/trekking1.jpg)
-
-![](assets/images/trekking2.jpg)
-
-![](assets/images/trekking3.jpg)
-
-![](assets/images/trekking4.jpg)
-
-![](assets/images/trekking5.jpg)
-
-![](assets/images/trekking6.jpg)
-
-![](assets/images/trekking7.jpg)
