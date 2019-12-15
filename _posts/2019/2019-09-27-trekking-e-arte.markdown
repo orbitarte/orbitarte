@@ -92,3 +92,11 @@ Per info, potete trovare la nostra guida escursionistica, Fabio Salati, sul sito
 ![](/assets/images/trekking2.jpg)
 
 ![](/assets/images/trekking4.jpg)
+
+![](/assets/images/trekking3.jpg)
+
+![](/assets/images/trekking5.jpg)
+
+![](/assets/images/trekking6.jpg)
+
+![](/assets/images/trekking7.jpg)
