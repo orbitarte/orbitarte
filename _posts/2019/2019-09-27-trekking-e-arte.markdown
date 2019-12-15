@@ -87,10 +87,8 @@ I cinque giorni si concludono così, un’esperienza estremamente positiva, che 
 
 Per info, potete trovare la nostra guida escursionistica, Fabio Salati, sul sito della [ASD Lazio Outdoor](https://www.asdlaziooutdoor.it/).
 
-<<<<<<< HEAD
-![](assets/images/trekking1.jpg)
-
-![](assets/images/trekking2.jpg)
-=======
 ![](/assets/images/trekking1.jpg)
->>>>>>> 339a0de17fddfffe5edb8607dbdd7cd9327fcb07
+
+![](/assets/images/trekking2.jpg)
+
+![](/assets/images/trekking4.jpg)
