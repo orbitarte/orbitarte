@@ -1,6 +1,6 @@
 ---
 layout: page
-title: tour
+title: Tour
 permalink: /tour
 ---
 **Passeggiata e aperitivo: il Pigneto**
