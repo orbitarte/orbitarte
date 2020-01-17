@@ -32,9 +32,9 @@ La visita guiada empieza siempre en el punto de encuentro de METRO C Pigneto
 
 Miércoles: 10.30 - 12.30    y     16.30 - 18.30
 
-Jueves:     10.30 - 12.30
+Jueves:    10.30 - 12.30
 
-Costo: 35 euro por persona, es necesario reservar por correo electrónico
+Costo:     35 euro por persona, es necesario reservar por correo electrónico
 
 Al final de la visita se puede tomar un aperitivo en unos característicos bares romanos.
 
