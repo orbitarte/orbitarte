@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Tour
-permalink: /tour
+title: tour
+permalink: /Tour
 ---
 **Passeggiata e aperitivo: il Pigneto**
 
