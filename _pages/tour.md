@@ -28,7 +28,7 @@ Vamos a ver cómo se vive en Roma, cómo se relajan los habitantes del barrio y 
 ¡Vamos con OrbitArte a descubrir un barrio especial de Roma!
 
 
-La visita guiada empieza siempre en el punto de encuentro de METRO C Pigneto
+El punto de encuentro es siempre METRO C Pigneto
 
 Miércoles: 10.30 - 12.30    y     16.30 - 18.30
 
@@ -59,16 +59,16 @@ Costo: 25 euro a persona, è necessaria la prenotazione tramite email
 
 **El Quadraro: historia y arte urbano**
 
-El Quadraro es un barrio muy tipico de Roma. Tiene una conexion muy estrecha con la historia de la ciuidad. Este barrio es como una pequeña isla donde el tiempo es más lento que lo que fluye alrededor. Paseando con OrbitArte podremos reconstruir la historia del barrio, desde la Segunda Guerra Mundial hasta hoy, podremos leer lo que los artistas contemporaneos dejaron en las paredes de las calles. Cada rincón cuenta anécdotas y eventos que fuerman parte de la nuestra historia contemporánea. Por ejemplo las redada nazis de 1944 y la reciente obra de recalificación.
-El paseo estará acompañado por ideas prácticas de fotografía urbana, para analizar la mejor manera de fografiar obras e calles.
+El Quadraro es un barrio muy tipico de Roma. Tiene una conexion muy estrecha con la historia de la ciuidad. Este barrio es como una pequeña isla, aquí el tiempo fluye más lento que lo normal. Paseando con OrbitArte podremos reconstruir la historia del barrio, desde la Segunda Guerra Mundial hasta hoy, podremos leer lo que los artistas contemporaneos dejaron en las paredes de las calles. Cada rincón cuenta anécdotas y eventos que fuerman parte de la nuestra historia contemporánea. Por ejemplo las redada nazis de 1944 y la reciente obra de recalificación.
+Durante el paseo tendremos la oportunidad de practicar un poco la fotografia, analizando, como un taller fotográfico, la mejor manera de capturar obras y calles del barrio.
 
 
-La visita guiada empieza siempre en el punto de encuentro METRO A PORTA FURBA - QUADRARO (lado Supermercati Sacoph)
+El punto de encuentro es siempre METRO A PORTA FURBA - QUADRARO (lado Supermercati Sacoph)
 
 Lunes: 10.30 - 12.00
 
 Jueves: 14.00 - 15.30
 
-Costo: 25 euro por persona, es necesario reservar por correo electrónico
+Costo: 15 euro por persona, es necesario reservar por correo electrónico
 
 [associazioneorbitarte@gmail.com](mailto:associazioneorbitarte@gmail.com)
