@@ -18,14 +18,14 @@ authors:
     display_name: Liliana Spadaro
     avatar: 'assets/images/liliana.png'
     email: associazioneorbitarte@gmail.com
-    web: https://www.orbitarte.it
+    web: https://orbitarte.it
     twitter: https://twitter.com/OrbitArte
     instagram: https://www.instagram.com/associazioneorbitarte/
     facebook: https://facebook.com/associazioneorbitarte
     description: "Storica dell’arte e dottoranda, con specializzazione in arte contemporanea. Tra i suoi interessi principali ci sono le ultime tendenze dell’arte contemporanea, dal Pop Surrealism alla Street Art."
   greta:
     name: Greta Rocchino
-    display_name: Greta Rocchino  
+    display_name: Greta Rocchino
     avatar: 'assets/images/greta.png'
     email: associazioneorbitarte@gmail.com
     web: https://www.orbitarte.it
@@ -39,7 +39,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-archives
-    
+
 # Archives
 jekyll-archives:
   enabled:
@@ -47,11 +47,11 @@ jekyll-archives:
   layout: archive
   permalinks:
     category: '/category/:name/'
-    
-# Pagination 
+
+# Pagination
 paginate: 6
 paginate_path: /page:num/
-    
+
 # Other
 markdown: kramdown
 
