@@ -5,7 +5,7 @@ permalink: /Tour
 ---
 **Passeggiata e aperitivo: il Pigneto**
 
-L’Associazione OrbitArte è lieta di invitarvi a prendere parte ad una passeggiata per le vie del Pigneto, alla ricerca di particolari e scorci in grado di raccontarci la storia e il vissuto di questo quartiere. Dall’Unità d’Italia alla riqualificazione, da Pasolini alla Street Art.
+L’Associazione OrbitArte è lieta di invitarvi a prendere parte a una passeggiata per le vie del Pigneto, alla ricerca di particolari e scorci in grado di raccontarci la storia e il vissuto di questo quartiere. Dall’Unità d’Italia alla riqualificazione, da Pasolini alla Street Art.
 Come degna conclusione della passeggiata potremo tutti assaporare un aperitivo in uno dei caratteristici locali del posto.
 
 La visita inizia sempre presso il punto d'incontro all'ingresso della Metro C Pigneto
