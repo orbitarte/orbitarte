@@ -42,6 +42,10 @@ Al final de la visita se puede tomar un aperitivo en unos característicos bares
 
 
 
+![ ](assets/images/pignetoAIRBNB.jpg)
+
+
+
 **Il Quadraro, la sua storia e la Street Art**
 
 Il Quadraro è un quartiere particolare di Roma, legato in maniera molto stretta alla storia della città. Rappresenta una piccola isola quasi immersa in un tempo differente da quello che le scorre intorno. Paggeggiando con OrbitArte avremo modo di ripercorrere la storia del quartiere a partire dalla Seconda Guerra Mondiale fino ai giorni nostri, leggendo quello che artisti contemporanei hanno lasciato sui muri delle sue strade. Ogni angolo ci racconta aneddoti e avvenimenti che fanno parte della nostra storia contemporanea, i rastrellamenti del '44 e la più recente opera di riqualificazione. Il tour sarà accompagnato da spunti teorici e pratici di street photography, volti ad analizzare il modo in cui possono essere fotografate opere e strade per riuscire a catturare il momento nel miglior modo possibile.
@@ -53,7 +57,7 @@ Lunedì: 10.30 - 12.00
 
 Giovedì: 14.00 - 15.30
 
-Costo: 25 euro a persona, è necessaria la prenotazione tramite email
+Costo: 15 euro a persona, è necessaria la prenotazione tramite email
 
 [associazioneorbitarte@gmail.com](mailto:associazioneorbitarte@gmail.com)
 
