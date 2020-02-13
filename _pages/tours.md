@@ -18,7 +18,7 @@ Costo:     35 euro a persona, prenotazione obbligatoria tramite email
 
  [associazioneorbitarte@gmail.com](mailto:associazioneorbitarte@gmail.com)
 
-**Paseo por el Pigneto y aperitivo**
+**Paseo por el Pigneto con aperitivo**
 
 ¿Te gustaría pasear en un  barrio antiguo, lleno de vida y de arte? ¿Quieres conocer su historia y su rincones secretos? ¡Vente a pasear conmigo, después del paseo nos espererá un aperitivo típico italiano!
 El barrio se sitúa entre dos calles importantes de Roma, la Via Prenestina y la Via Casilina. Es muy fácil llegar a Pigneto, esta bien conectado, hay autobus y tram.
