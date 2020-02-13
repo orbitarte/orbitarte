@@ -22,7 +22,7 @@ Costo:     35 euro a persona, prenotazione obbligatoria tramite email
 
 ¿Te gustaría pasear en un  barrio antiguo, lleno de vida y de arte? ¿Quieres conocer su historia y su rincones secretos? ¡Vente a pasear conmigo, después del paseo nos espererá un aperitivo típico italiano!
 El barrio se sitúa entre dos calles importantes de Roma, la Via Prenestina y la Via Casilina. Es muy fácil llegar a Pigneto, esta bien conectado, hay autobus y tram.
-En el barrio pasearemos entre calles estrechas y llenas de tiendas características y de artesanía local. Hablaremos de su historia, de su arte y de los personajes que vivieron aquí.
+En el barrio pasearemos entre calles estrechas llenas de tiendas características y de artesanía local. Hablaremos de su historia, de su arte y de los personajes que vivieron aquí.
 Podremos respirar y pasear en los lugares donde vivieron personajes como Pier Paolo Pasolini,  director y escritor de el Neorealismo italiano. Mientras tanto nos encontráremos con obras de arte urbano dedicadas a él. En este lugares el arte urbano se mezcla a la vida de todos los días, y es el centro de la vida nocturna.
 Vamos a ver cómo se vive en Roma, cómo se relajan los habitantes del barrio y cómo pasan su tiempo libre.
 ¡Vamos con OrbitArte a descubrir un barrio especial de Roma!
