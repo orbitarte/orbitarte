@@ -41,6 +41,10 @@ Al final de la visita se puede tomar un aperitivo en unos característicos bares
  [associazioneorbitarte@gmail.com](mailto:associazioneorbitarte@gmail.com)
 
 
+![](/assets/images/pignetoAIRBNB.jpg)
+
+
+
 
 **Il Quadraro, la sua storia e la Street Art**
 
