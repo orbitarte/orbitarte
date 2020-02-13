@@ -57,7 +57,7 @@ Lunedì: 10.30 - 12.00
 
 Giovedì: 14.00 - 15.30
 
-Costo: 25 euro a persona, è necessaria la prenotazione tramite email
+Costo: 15 euro a persona, è necessaria la prenotazione tramite email
 
 [associazioneorbitarte@gmail.com](mailto:associazioneorbitarte@gmail.com)
 
