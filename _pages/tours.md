@@ -76,3 +76,8 @@ Jueves: 14.00 - 15.30
 Costo: 15 euro por persona, es necesario reservar por correo electrónico
 
 [associazioneorbitarte@gmail.com](mailto:associazioneorbitarte@gmail.com)
+
+
+
+
+![](assets/images/copertina_quadraro.jpg)
