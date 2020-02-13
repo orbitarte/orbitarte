@@ -80,4 +80,4 @@ Costo: 15 euro por persona, es necesario reservar por correo electrónico
 
 
 
-![](assets/images/copertina_quadraro.jpg)
+![](assets/images/nido-di-vespe-you-are-now-entering-free-quadraro-lucamaleonte.jpg)
