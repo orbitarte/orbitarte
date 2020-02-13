@@ -42,8 +42,7 @@ Al final de la visita se puede tomar un aperitivo en unos característicos bares
 
 
 
-![ ](assets/images/pignetoAIRBNB.jpg)
-
+![](assets/images/pignetoAIRBNB.jpg)
 
 
 **Il Quadraro, la sua storia e la Street Art**
