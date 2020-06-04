@@ -23,6 +23,7 @@ permalink: "/visite.html"
 <div class="section-title col-md-12 mt-4">
 <h2>Visite Guidate</span></h2>
 </div>
+{% for post in site.categories.Visite %}
 <!-- {% assign pages_list = category[1] %} -->
 <!-- {% for post in pages_list %} -->
 <!-- {% if post.title != null %} -->
@@ -31,6 +32,7 @@ permalink: "/visite.html"
 <!-- {% endif %} -->
 <!-- {% endif %} -->
 <!-- {% endfor %} -->
+{% endfor %}
 {% assign pages_list = nil %}
 {% assign group = nil %}
 {% endfor %}
