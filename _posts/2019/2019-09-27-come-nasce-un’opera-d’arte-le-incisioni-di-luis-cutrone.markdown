@@ -3,7 +3,6 @@ layout: "post"
 title: "Visita guidata di prova"
 date: "2020-06-04 14:55"
 author: liliana
-image: assets/images/cutrone_copertina.jpg
 categories:
   - Visite
 featured: false
