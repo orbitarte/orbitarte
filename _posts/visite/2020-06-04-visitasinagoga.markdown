@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Dalla prima Sinagoga al Tempio Maggiore: la più antica comunità ebrica d'Europa"
+title: "Dalla prima Sinagoga al Tempio Maggiore: la più antica comunità ebraica d'Europa"
 date: "2020-06-21 15:00"
 author: liliana
 image: assets/images/IMG_3192.jpg
@@ -11,7 +11,7 @@ tags:
 featured: false
 hidden: true
 ---
-Partendo dal luogo dove in origine la comunità risiedeva, Trastevere, ripercorreremo le tappe della storia della comunità, passando dalla creazione del ghetto alla costruzione della Grande Sinagoga, attraversando l’Isola Tiberina. Durante la visita sarà previsto l’ingresso al Museo Ebraico e al Tempio Maggiore. 
+Partendo dal luogo dove in origine la comunità risiedeva, Trastevere, ripercorreremo le tappe della storia della comunità, passando dalla creazione del ghetto alla costruzione della Grande Sinagoga, attraversando l’Isola Tiberina. Durante la visita sarà previsto l’ingresso al Museo Ebraico e al Tempio Maggiore.
 
 Appuntamento ore 15.00 a Piazza in Piscinula, è consigliato presentarsi un quarto d'ora prima.
 
