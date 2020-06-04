@@ -1,0 +1,20 @@
+---
+layout: "post"
+title: "Visita 1"
+date: "2020-06-04 14:39"
+author: liliana
+image: assets/images/copertina_quadraro.jpg
+categories:
+  - Visite
+tags:
+  -
+featured: false
+hidden: true
+---
+Qualche tempo fa OrbitArte e Bauci Park ci hanno accompagnato a fare un giro al Quadraro, uno dei quartieri più ricchi di storia, la Roma nei suoi aspetti nasc
+
+olidarietà tra chi è stato colpito dalle deportazioni del ’44. Luogo di drammi ma anche di aneddoti, basti pensare al fatto che la vicinanza agli Studios di Cinecittà faceva sì che molti personaggi del cinema passeggiassero e vivessero tra le sue strade.
+
+
+Il video è un piccolo assaggio di questa storia…
+Grafica e video, montaggio e post produzione a cura di Gabriele Rollo e Silvia Spadaro.
