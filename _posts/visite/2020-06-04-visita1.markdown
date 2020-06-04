@@ -1,9 +1,9 @@
 ---
 layout: "post"
-title: "Visita 1"
-date: "2020-06-04 14:39"
+title: "Le icone di Erwitt"
+date: "2020-06-13 11:00"
 author: liliana
-image: assets/images/copertina_quadraro.jpg
+image: assets/images/elliott_erwitt1956_marilyn_monroe.jpg
 categories:
   - Visite
 tags:
@@ -11,10 +11,9 @@ tags:
 featured: false
 hidden: true
 ---
-Qualche tempo fa OrbitArte e Bauci Park ci hanno accompagnato a fare un giro al Quadraro, uno dei quartieri più ricchi di storia, la Roma nei suoi aspetti nasc
+In quello che era il Palazzo della Gioventù Italiana a Trastevere trova spazio una raccolta di scatti iconici del fotografo Elliot Erwitt. Attraverso i suoi occhi vedremo uno spaccato di vita dei personaggi più celebri del ‘900.
 
-olidarietà tra chi è stato colpito dalle deportazioni del ’44. Luogo di drammi ma anche di aneddoti, basti pensare al fatto che la vicinanza agli Studios di Cinecittà faceva sì che molti personaggi del cinema passeggiassero e vivessero tra le sue strade.
+Appuntamento 10.45 davanti l'entrata del Wegil.
 
-
-Il video è un piccolo assaggio di questa storia…
-Grafica e video, montaggio e post produzione a cura di Gabriele Rollo e Silvia Spadaro.
+Costo Visita guidata + entrata al museo: 15 Euro
+Per info e prenotazioni scrivere a info@orbitarte.it
