@@ -16,7 +16,7 @@ Giovedì:   10.30 - 12.30
 
 Costo:     35 euro a persona, prenotazione obbligatoria tramite email
 
- [associazioneorbitarte@gmail.com](mailto:associazioneorbitarte@gmail.com)
+ [info@orbitarte.it](mailto:info@orbitarte.it)
 
 **Paseo por el Pigneto con aperitivo**
 
@@ -38,7 +38,7 @@ Costo:     35 euro por persona, es necesario reservar por correo electrónico
 
 Al final de la visita se puede tomar un aperitivo en unos característicos bares romanos.
 
- [associazioneorbitarte@gmail.com](mailto:associazioneorbitarte@gmail.com)
+ [info@orbitarte.it](mailto:info@orbitarte.it)
 
 
 
@@ -58,7 +58,7 @@ Giovedì: 14.00 - 15.30
 
 Costo: 15 euro a persona, è necessaria la prenotazione tramite email
 
-[associazioneorbitarte@gmail.com](mailto:associazioneorbitarte@gmail.com)
+[info@orbitarte.it](mailto:info@orbitarte.it)
 
 **El Quadraro: historia y arte urbano**
 
@@ -74,7 +74,7 @@ Jueves: 14.00 - 15.30
 
 Costo: 15 euro por persona, es necesario reservar por correo electrónico
 
-[associazioneorbitarte@gmail.com](mailto:associazioneorbitarte@gmail.com)
+[info@orbitarte.it](mailto:info@orbitarte.it)
 
 
 
