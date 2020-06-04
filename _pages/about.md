@@ -35,15 +35,14 @@ img {
 
 <h4>Liliana Spadaro</h4>
 <img src="assets/images/liliana.png" width="75" height="75" align="center">
-<p>Storica dell’arte e curatrice, con specializzazione in Arte contemporanea.
+<p>Storica dell’arte e curatrice, con specializzazione in Arte contemporanea. Dopo essersi laureata in Storia dell'Arte presso La Sapienza di Roma, prosegue gli studi portando a termine con successo la Scuola di Specializzazione in Beni Storico Artistici, della medesima università. Ha collaborato con alcuni dei musei e associazioni più importanti di Roma, tra cui la Galleria Nazionale, ex GNAM, l'Archivio dei Macchiaioli, L'ufficio Mostre del Comune di Roma, e la galleria-laboratorio StudioSotterraneo.
 <br>
-Tra i suoi interessi principali ci sono le ultime tendenze dal Pop Surrealism alla Street Art.
+Tra i suoi interessi principali ci sono le ultime tendenze, dal Pop Surrealism alla Street Art.
 <br>
 Organizzatrice di eventi e conferenze.
 
 <h4>Greta Rocchino</h4>
 <img src="assets/images/greta.png" width="75" height="75" align="center">
-<p>Storica dell’arte e accompagnatrice turistica, specializzata in arte medievale.
+<p>Storica dell’arte bizantina laureata alla Sapienza e accompagnatrice turistica, ha seguito un corso presso il Pontificio Istituto di Archeologia Cristiana e un tirocinio alla Biblioteca Casanatense ed ha fatto parte della sezione didattica del Gruppo Archeologico Romano. Accompagnatore turistico abilitato, attualmente è operatore museale con Aditum Cultura presso il Museo dell’Alto Medioevo all’interno del Museo delle Civiltà.
 <br>
-I suoi interessassi spaziano dall’Arte medievale all’Arte moderna, con un focus particolare sull’archeologia.</p>
-
+I suoi interessi vanno dall’archeologia al medioevo, soprattutto del Vicino Oriente.</p>
