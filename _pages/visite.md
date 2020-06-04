@@ -1,5 +1,5 @@
 ---
-layout: categories
+layout: visite
 title: Visite
 permalink: /visite
 ---
