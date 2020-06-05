@@ -43,7 +43,7 @@ Organizzatrice di eventi e conferenze.
 </div>
 <div class="row listrecent">
 {% assign the_author='liliana' %}
-{% for post in site.categories.blog %}
+{% for post in site.categories.Blog %}
   {% for author in post.author %}
     {% if author == the_author %}
       {% include postbox.html %}
