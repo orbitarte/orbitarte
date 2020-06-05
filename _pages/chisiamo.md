@@ -17,7 +17,7 @@ border-radius: 50%;
 <div class="col-md-6"><h2>Guide Associate</h2>
 <a href="{{ site.baseurl }}/marilena_patane"><img src="assets/images/marilena.png" width="150" height="150" align="center"></a>
 </div>    
-</div>
+
 </div>
 
 <br>
