@@ -13,6 +13,7 @@ hidden: true
 ---
 21 Giugno 2020 ore 15.00
 
+
 Partendo dal luogo dove in origine la comunità risiedeva, Trastevere, ripercorreremo le tappe della storia della comunità, passando dalla creazione del ghetto alla costruzione della Grande Sinagoga, attraversando l’Isola Tiberina. Durante la visita sarà previsto l’ingresso al Museo Ebraico e al Tempio Maggiore.
 
 Appuntamento ore 15.00 a Piazza in Piscinula, è consigliato presentarsi un quarto d'ora prima.
