@@ -5,14 +5,25 @@ permalink: /chisiamo
 comments: false
 ---
 <div class="section-title">
-<h2>Soci Fondatori</h2><br>
+<h3>Soci Fondatori</h3><br>
 <style>
 img {
   border-radius: 50%;
 }
 </style>
     <a href="{{ site.baseurl }}/liliana_spadaro"><img src="assets/images/liliana.png" width="150" height="150" align="center"></a>  <a href="{{ site.baseurl }}/greta_rocchino"><img src="assets/images/greta.png" width="150" height="150" align="center"></a>
+</div> <br>
+
+<div class="section-title">
+<h3>Guide Associate</h3><br>
+<style>
+img {
+  border-radius: 50%;
+}
+</style>
+    <a href="{{ site.baseurl }}/marilena_patane"><img src="assets/images/marilena.png" width="150" height="150" align="center"></a>
 </div>
+
 
 <br>
 <p>L’associazione culturale OrbitArte nasce dalla passione, dagli studi e dal lavoro di tre storici dell’arte, che hanno deciso di incanalare le loro energie verso un’esperibilità del patrimonio culturale diversa dal solito.</p>
