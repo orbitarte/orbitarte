@@ -4,7 +4,7 @@ title: Chi Siamo
 permalink: /chisiamo
 comments: false
 ---
-<div class="soci" class="row mb-12">
+<div class="soci" class="col-md-12">
 <div class="section-title">
 <style>
 img {

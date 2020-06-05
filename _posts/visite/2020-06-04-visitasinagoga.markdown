@@ -2,7 +2,7 @@
 layout: "post"
 title: "Dalla prima Sinagoga al Tempio Maggiore: la più antica comunità ebraica d'Europa"
 date: "2020-06-21 15:00"
-author: liliana
+author: greta
 image: assets/images/IMG_3192.jpg
 categories:
   - Visite
@@ -16,4 +16,4 @@ Partendo dal luogo dove in origine la comunità risiedeva, Trastevere, ripercorr
 Appuntamento ore 15.00 a Piazza in Piscinula, è consigliato presentarsi un quarto d'ora prima.
 
 Visita + ingresso Museo Ebraico e Sinagoga: 15 Euro.
-Per info e prenotazioni scrivere a [info@orbitarte.it](mailto:info@orbitarte.it)
+Per info e prenotazioni scrivere a [info@orbitarte.it](mailto:info@orbitarte.it?subject=Sinagoga)

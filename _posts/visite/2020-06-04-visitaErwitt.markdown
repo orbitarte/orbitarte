@@ -16,4 +16,4 @@ In quello che era il Palazzo della Gioventù Italiana a Trastevere trova spazio 
 Appuntamento 10.45 davanti l'entrata del Wegil.
 
 Costo Visita guidata + entrata al museo: 15 Euro
-Per info e prenotazioni scrivere a [info@orbitarte.it](mailto:info@orbitarte.it)
+Per info e prenotazioni scrivere a [info@orbitarte.it](mailto:info@orbitarte.it?subject=Icone di Erwitt)
