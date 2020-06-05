@@ -5,7 +5,7 @@ permalink: /chisiamo
 comments: false
 ---
 <div class="soci">
-<div class="section-title">
+
 <style>
 img {
 border-radius: 50%;
