@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Chi siamo
-permalink: /chisiamo
-comments: true
+title: Staff
+permalink: /staff
+comments: false
 ---
 <div class="section-title">
 <style>
