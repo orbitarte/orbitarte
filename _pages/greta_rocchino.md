@@ -19,3 +19,19 @@ Ha seguito un corso presso il Pontificio Istituto di Archeologia Cristiana e un 
 Accompagnatore turistico abilitato, attualmente è operatore museale con Aditum Cultura presso il Museo dell’Alto Medioevo all’interno del Museo delle Civiltà.
 
 I suoi interessi vanno dall’archeologia al medioevo, soprattutto del Vicino Oriente.
+
+<section class="recent-posts">
+<div class="section-title">
+    <h2>Ultime Visite Guidate</h2>
+</div>
+<div class="row listrecent">
+{% assign the_author='greta' %}
+{% for post in site.categories.Visite %}
+  {% for author in post.author %}
+    {% if author == the_author %}
+      {% include postbox.html %}
+    {% endif %}
+  {% endfor %}
+{% endfor %}
+</div>
+</section>
