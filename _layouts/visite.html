@@ -4,10 +4,17 @@ layout: default
 permalink: "/visite.html"
 ---
 
+<section class="recent-posts">
+<div class="section-title">
+    <h2>Visite Guidate</h2>
+</div>
 <div class="row listrecent">
-{% for category in site.categories.Visite %}
-<div class="section-title col-md-12 mt-4">
-<h2>Visite Guidate</span></h2>
-</div>
+
+{% for post in site.categories.Visite %}
+
+    {% include postbox.html %}
+
 {% endfor %}
+
 </div>
+</section>
