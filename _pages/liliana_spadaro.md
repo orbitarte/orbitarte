@@ -3,13 +3,14 @@ layout: page
 title: Liliana Spadaro
 permalink: /liliana_spadaro
 ---
-
+<div class=foto>
 <style>
 img {
 border-radius: 50%;
 }
 </style>
 <img src="assets/images/liliana.png" width="300" height="300" align="center">
+</div>
 
 <p>Storica dell’arte e curatrice, con specializzazione in Arte contemporanea. Dopo essersi laureata in Storia dell'Arte presso La Sapienza di Roma, prosegue gli studi portando a termine con successo la Scuola di Specializzazione in Beni Storico Artistici, della medesima università.
 Ha collaborato con alcuni dei musei e associazioni più importanti di Roma, tra cui la Galleria Nazionale, ex GNAM, l'Archivio dei Macchiaioli, L'ufficio Mostre del Comune di Roma, e la galleria-laboratorio StudioSotterraneo.
