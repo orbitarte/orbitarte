@@ -31,7 +31,14 @@ authors:
     web: https://orbitarte.it/greta_rocchino
     twitter: https://twitter.com/OrbitArte
     description: "Storica dell’arte, specializzata in arte bizantina all’Università La Sapienza. Specializzata in archeologia e medioevo."
-
+  letizia:
+    name: Letizia Patané
+    display_name: Letizia Patané
+    avatar: 'assets/images/letizia.png'
+    email: info@orbitarte.it
+    web: https://orbitarte.it/letizia_patane
+    twitter: https://twitter.com/OrbitArte
+    description: "Dopo un appassionante  e fruttifero stage presso la Fondazione Rui, consegue l'abilitazione di guida turistica di Roma."
 # Plugins
 plugins:
   - jekyll-paginate

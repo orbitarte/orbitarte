@@ -15,7 +15,7 @@ border-radius: 50%;
 <a href="{{ site.baseurl }}/liliana_spadaro"><img src="assets/images/liliana.png" width="150" height="150" align="center"></a>  <a href="{{ site.baseurl }}/greta_rocchino"><img src="assets/images/greta.png" width="150" height="150" align="center"></a>
 </div>
 <div class="col-md-6"><h2>Guide Associate</h2>
-<a href="{{ site.baseurl }}/marilena_patane"><img src="assets/images/marilena.png" width="150" height="150" align="center"></a>
+<a href="{{ site.baseurl }}/letizia_patane"><img src="assets/images/letizia.png" width="150" height="150" align="center"></a>
 </div>    
 </div>
 </div>
