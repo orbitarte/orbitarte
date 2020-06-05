@@ -3,15 +3,19 @@ layout: page
 title: Greta Rocchino
 permalink: /greta_rocchino
 ---
-
+<div class=foto>
 <style>
 img {
 border-radius: 50%;
 }
 </style>
 <img src="assets/images/greta.png" width="300" height="300" align="center">
+</div>
 
-<p>Storica dell’arte bizantina laureata alla Sapienza e accompagnatrice turistica, ha seguito un corso presso il Pontificio Istituto di Archeologia Cristiana e un tirocinio alla Biblioteca Casanatense ed ha fatto parte della sezione didattica del Gruppo Archeologico Romano.
+Storica dell’arte bizantina laureata alla Sapienza e accompagnatrice turistica.
+
+Ha seguito un corso presso il Pontificio Istituto di Archeologia Cristiana e un tirocinio alla Biblioteca Casanatense ed ha fatto parte della sezione didattica del Gruppo Archeologico Romano.
+
 Accompagnatore turistico abilitato, attualmente è operatore museale con Aditum Cultura presso il Museo dell’Alto Medioevo all’interno del Museo delle Civiltà.
-<br>
-I suoi interessi vanno dall’archeologia al medioevo, soprattutto del Vicino Oriente.</p>
+
+I suoi interessi vanno dall’archeologia al medioevo, soprattutto del Vicino Oriente.
