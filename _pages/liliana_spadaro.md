@@ -23,11 +23,27 @@ Organizzatrice di eventi e conferenze.
 
 <section class="recent-posts">
 <div class="section-title">
-    <h2>Ultimi post</h2>
+    <h2>Ultime Visite Guidate</h2>
 </div>
 <div class="row listrecent">
 {% assign the_author='liliana' %}
 {% for post in site.categories.Visite %}
+  {% for author in post.author %}
+    {% if author == the_author %}
+      {% include postbox.html %}
+    {% endif %}
+  {% endfor %}
+{% endfor %}
+</div>
+</section>
+
+<section class="recent-posts">
+<div class="section-title">
+    <h2>Ultimi Articoli</h2>
+</div>
+<div class="row listrecent">
+{% assign the_author='liliana' %}
+{% for post in site.categories.blog %}
   {% for author in post.author %}
     {% if author == the_author %}
       {% include postbox.html %}
