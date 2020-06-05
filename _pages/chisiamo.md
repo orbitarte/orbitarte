@@ -5,7 +5,7 @@ permalink: /chisiamo
 comments: false
 ---
 <div class="section-title">
-<h3>Soci Fondatori</h3><br>
+<h2>Soci Fondatori</h2>
 <style>
 img {
   border-radius: 50%;
@@ -15,7 +15,7 @@ img {
 </div> <br>
 
 <div class="section-title">
-<h3>Guide Associate</h3><br>
+<h2>Guide Associate</h2>
 <style>
 img {
   border-radius: 50%;
