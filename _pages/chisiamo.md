@@ -4,28 +4,29 @@ title: Chi Siamo
 permalink: /chisiamo
 comments: false
 ---
-<div class="section-title">
-<div class="col-sm-6><h2>Soci Fondatori</h2>
-<style>
-img {
-  border-radius: 50%;
-}
-</style>
-    <a href="{{ site.baseurl }}/liliana_spadaro"><img src="assets/images/liliana.png" width="150" height="150" align="center"></a>  <a href="{{ site.baseurl }}/greta_rocchino"><img src="assets/images/greta.png" width="150" height="150" align="center"></a>
-</div>    
-</div> <br>
+<div class="soci">
+  <div class="section-title">
+      <div class="col-sm-6"><h2>Soci Fondatori</h2>
+      <style>
+      img {
+        border-radius: 50%;
+      }
+      </style>
+        <a href="{{ site.baseurl }}/liliana_spadaro"><img src="assets/images/liliana.png" width="150" height="150" align="center"></a>  <a href="{{ site.baseurl }}/greta_rocchino"><img src="assets/images/greta.png" width="150" height="150" align="center"></a>
+      </div>    
+  </div> <br>
 
-<div class="section-title">
-<div class="col-sm-6><h2>Guide Associate</h2>
-<style>
-img {
-  border-radius: 50%;
-}
-</style>
-    <a href="{{ site.baseurl }}/marilena_patane"><img src="assets/images/marilena.png" width="150" height="150" align="center"></a>
+  <div class="section-title">
+      <div class="col-sm-6"><h2>Guide Associate</h2>
+      <style>
+      img {
+        border-radius: 50%;
+      }
+      </style>
+      <a href="{{ site.baseurl }}/marilena_patane"><img src="assets/images/marilena.png" width="150" height="150" align="center"></a>
+      </div>
+  </div>
 </div>
-</div>
-
 
 <br>
 <p>L’associazione culturale OrbitArte nasce dalla passione, dagli studi e dal lavoro di tre storici dell’arte, che hanno deciso di incanalare le loro energie verso un’esperibilità del patrimonio culturale diversa dal solito.</p>
