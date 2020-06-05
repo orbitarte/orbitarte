@@ -1,7 +1,7 @@
 ---
 layout: "post"
 title: "Le icone di Erwitt"
-date: "2020-06-13 11:00"
+date: "2020-06-05 11:00"
 author: liliana
 image: assets/images/elliott_erwitt1956_marilyn_monroe.jpg
 categories:
@@ -11,6 +11,8 @@ tags:
 featured: false
 hidden: true
 ---
+13 Giugno 2020 - ore 11.00
+
 In quello che era il Palazzo della Gioventù Italiana a Trastevere trova spazio una raccolta di scatti iconici del fotografo Elliot Erwitt. Attraverso i suoi occhi vedremo uno spaccato di vita dei personaggi più celebri del ‘900.
 
 Appuntamento 10.45 davanti l'entrata del Wegil.
