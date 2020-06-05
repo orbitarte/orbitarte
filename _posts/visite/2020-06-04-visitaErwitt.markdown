@@ -17,3 +17,6 @@ Appuntamento 10.45 davanti l'entrata del Wegil.
 
 Costo Visita guidata + entrata al museo: 15 Euro
 Per info e prenotazioni scrivere a [info@orbitarte.it](mailto:info@orbitarte.it?subject=Icone di Erwitt)
+
+
+Per rendere ogni esperienza più piacevole e sicura per il pubblico durante la visita  saranno osservate tutte le precauzioni anti covid19, in ottemperanza alle ultime normative.

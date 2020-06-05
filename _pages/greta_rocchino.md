@@ -12,7 +12,7 @@ border-radius: 50%;
 <img src="assets/images/greta.png" width="300" height="300" align="center">
 
 
-Storica dell’arte bizantina laureata alla Sapienza e accompagnatrice turistica.
+Storica dell’arte bizantina laureata alla Sapienza.
 
 Ha seguito un corso presso il Pontificio Istituto di Archeologia Cristiana e un tirocinio alla Biblioteca Casanatense ed ha fatto parte della sezione didattica del Gruppo Archeologico Romano.
 
