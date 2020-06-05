@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Staff
-permalink: /staff
+title: Chi Siamo
+permalink: /chisiamo
 comments: false
 ---
 <div class="section-title">
@@ -10,7 +10,7 @@ img {
   border-radius: 50%;
 }
 </style>
-    <img src="assets/images/liliana.png" width="75" height="75" align="center"> <img src="assets/images/greta.png" width="75" height="75" align="center">
+    <a href="{{ site.baseurl }}/liliana_spadaro"><img src="assets/images/liliana.png" width="75" height="75" align="center"></a> &nbsp &nbsp<a href="{{ site.baseurl }}/greta_rocchino"><img src="assets/images/greta.png" width="75" height="75" align="center"></a>
 </div>
 
 <div class="row justify-content-between">
