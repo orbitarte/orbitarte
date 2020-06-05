@@ -20,3 +20,12 @@ Ha collaborato con alcuni dei musei e associazioni più importanti di Roma, tra 
 Tra i suoi interessi principali ci sono le ultime tendenze, dal Pop Surrealism alla Street Art.
 
 Organizzatrice di eventi e conferenze.
+
+{% assign the_author='liliana' %}
+{% for post in site.posts %}
+  {% for author in post.author %}
+    {% if author == the_author %}
+      {% include postbox.html %}
+    {% endif %}
+  {% endfor %}
+{% endfor %}

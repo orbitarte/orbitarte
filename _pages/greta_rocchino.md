@@ -3,14 +3,14 @@ layout: page
 title: Greta Rocchino
 permalink: /greta_rocchino
 ---
-<div class=foto>
+
 <style>
 img {
 border-radius: 50%;
 }
 </style>
 <img src="assets/images/greta.png" width="300" height="300" align="center">
-</div>
+
 
 Storica dell’arte bizantina laureata alla Sapienza e accompagnatrice turistica.
 
