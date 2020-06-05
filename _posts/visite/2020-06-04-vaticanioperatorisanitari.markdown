@@ -14,6 +14,7 @@ hidden: true
 08 - 13 Giugno 2020 h 10.00 - 23.00
 
 
+
 Giornate gratuite in Vaticano per personale ospedaliero. Quello che proponiamo è un percorso attraverso uno dei musei più ricchi e visitati al mondo. Percorreremo insieme le Gallerie fino all’arrivo in Cappella Sistina, passando attraverso le celebri Stanze di Raffaello. Due ore all’interno dello stato più piccolo del mondo.
 In segno di gratitudine per il lavoro svolto durante questo periodo di emergenza, il Governatorato dello Stato della Città del Vaticano annuncia che, per una settimana, tutti i medici, gli infermieri e il personale tecnico e sanitario ausiliario in servizio presso le strutture sanitarie pubbliche e private del territorio nazionale italiano potranno accedere gratuitamente ai Musei Vaticani e al complesso delle Ville Pontificie di Castel Gandolfo.
 
