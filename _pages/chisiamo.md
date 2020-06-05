@@ -10,7 +10,7 @@ img {
   border-radius: 50%;
 }
 </style>
-    <a href="{{ site.baseurl }}/liliana_spadaro"><img src="assets/images/liliana.png" width="150" height="150" align="center"></a> &nbsp &nbsp<a href="{{ site.baseurl }}/greta_rocchino"><img src="assets/images/greta.png" width="150" height="150" align="center"></a>
+    <a href="{{ site.baseurl }}/liliana_spadaro"><img src="assets/images/liliana.png" width="150" height="150" align="center"></a>  <a href="{{ site.baseurl }}/greta_rocchino"><img src="assets/images/greta.png" width="150" height="150" align="center"></a>
 </div>
 
 <div class="row justify-content-between">
