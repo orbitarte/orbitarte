@@ -5,6 +5,7 @@ permalink: /chisiamo
 comments: false
 ---
 <div class="section-title">
+<h2>Soci Fondatori</h2><br>
 <style>
 img {
   border-radius: 50%;
