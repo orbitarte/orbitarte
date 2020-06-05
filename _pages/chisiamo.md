@@ -6,7 +6,7 @@ comments: false
 ---
 <div class="soci">
   <div class="section-title">
-      <div class="col-md-6"><h2>Soci Fondatori</h2>
+      <div class="col-md-4"><h2>Soci Fondatori</h2>
       <style>
       img {
         border-radius: 50%;
@@ -14,7 +14,7 @@ comments: false
       </style>
         <a href="{{ site.baseurl }}/liliana_spadaro"><img src="assets/images/liliana.png" width="150" height="150" align="center"></a>  <a href="{{ site.baseurl }}/greta_rocchino"><img src="assets/images/greta.png" width="150" height="150" align="center"></a>
       </div>
-      <div class="col-md-6"><h2>Guide Associate</h2>
+      <div class="col-md-4"><h2>Guide Associate</h2>
       <style>
       img {
         border-radius: 50%;
