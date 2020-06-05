@@ -21,9 +21,10 @@ Tra i suoi interessi principali ci sono le ultime tendenze, dal Pop Surrealism a
 
 Organizzatrice di eventi e conferenze.
 
+
 <section class="recent-posts">
 <div class="section-title">
-    <h2>Ultime Visite Guidate</h2>
+    <h2>Le mie visite guidate</h2>
 </div>
 <div class="row listrecent">
 {% assign the_author='liliana' %}
@@ -39,7 +40,7 @@ Organizzatrice di eventi e conferenze.
 
 <section class="recent-posts">
 <div class="section-title">
-    <h2>Ultimi Articoli</h2>
+    <h2>I miei articoli</h2>
 </div>
 <div class="row listrecent">
 {% assign the_author='liliana' %}

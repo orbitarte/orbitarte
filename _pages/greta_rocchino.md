@@ -22,7 +22,7 @@ I suoi interessi vanno dall’archeologia al medioevo, soprattutto del Vicino Or
 
 <section class="recent-posts">
 <div class="section-title">
-    <h2>Ultime Visite Guidate</h2>
+    <h2>Le mie visite guidate</h2>
 </div>
 <div class="row listrecent">
 {% assign the_author='greta' %}
