@@ -8,9 +8,11 @@ permalink: "/visite.html"
 <div class="section-title col-md-12 mt-4">
 <h2>Visite Guidate</span></h2>
 </div>
-{% for category in site.categories.Visite %}
+{% for post in site.categories.Visite %}
 {% if post.title != null %}
+{% if group == null or group == post.group %}
 {% include postbox.html %}
+{% endif %}
 {% endif %}
 {% endfor %}
 {% assign pages_list = nil %}
