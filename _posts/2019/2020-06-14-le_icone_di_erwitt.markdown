@@ -66,22 +66,22 @@ Questa mostra dunque è un meraviglioso viaggio nella carriera di un fotografo c
 
 
 
-![](assets/images/IMG_2646.jpg)
+![](/assets/images/IMG_2646.jpg)
 
 
-![](assets/images/IMG_2647.jpeg)
+![](/assets/images/IMG_2647.jpeg)
 
 
-![](assets/images/IMG_2648.jpg)
+![](/assets/images/IMG_2648.jpg)
 
 
-![](assets/images/IMG_2644.jpeg)
+![](/assets/images/IMG_2644.jpeg)
 
 
-![](assets/images/IMG_2638.jpeg)
+![](/assets/images/IMG_2638.jpeg)
 
 
-![](assets/images/IMG_2635.jpg)
+![](/assets/images/IMG_2635.jpg)
 
 
-![](assets/images/IMG_2640.jpg)
+![](/assets/images/IMG_2640.jpg)
