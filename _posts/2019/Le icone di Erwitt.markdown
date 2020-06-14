@@ -1,7 +1,7 @@
 ---
 layout: "post"
 title: "Le icone di Erwitt"
-date: "2020-06-14 17:20"
+date: "2020-06-14 12:20"
 author: liliana
 image: assets/images/IMG_2633.jpg
 categories:
@@ -64,7 +64,6 @@ Buona parte delle foto presenti sono scatti rubati, istantanee. California Kiss,
 Questa mostra dunque è un meraviglioso viaggio nella carriera di un fotografo che ci ha permesso di vivere, con i suoi reportage e scatti privati, alcuni dei momenti più importanti della storia del secolo passato, facendoci anche sbirciare negli attimi più intimi e privati di personaggi famosi e non. Vale la pena fare una passeggiata a Trastevere anche solo per questo.
 
 
-![](assets/images/erwittcopertina.jpg)
 
 
 ![](assets/images/IMG_2646.jpg)
