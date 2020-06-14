@@ -3,7 +3,7 @@ layout: "post"
 title: "Le icone di Erwitt"
 date: "2020-06-14 12:20"
 author: liliana
-image: assets/images/IMG_2633.jpg
+image: assets/images/copertina_erwitt.jpg
 categories:
   - Blog
 tags:
