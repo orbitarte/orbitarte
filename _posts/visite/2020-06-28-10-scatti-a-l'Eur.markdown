@@ -1,7 +1,7 @@
 ---
 layout: "post"
 title: "10 scatti a l'Eur"
-date: "2020-06-05 11:00"
+date: "2020-06-28 11:00"
 author: liliana
 image: assets/images/105299913_3035678026545359_7002868770568172432_n.jpg
 categories:
