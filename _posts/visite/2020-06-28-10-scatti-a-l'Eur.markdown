@@ -17,7 +17,7 @@ L’Eur è uno dei quartieri più moderni e al contempo ricchi di storia di Roma
 
 Costo passeggiata + lezione base shooting fotografico 14 euro
 
-Appuntamento fermata metro B Eur Palasport, d'avanti al Bar Belvedere
+Appuntamento fermata metro B Eur Palasport, davanti al Bar Belvedere
 Viale America
 Per info e prenotazioni [info@orbitarte.it](mailto:info@orbitarte.it?subject=10 scatti a l'Eur)
 
