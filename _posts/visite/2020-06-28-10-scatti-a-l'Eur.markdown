@@ -3,7 +3,7 @@ layout: "post"
 title: "10 scatti a l'Eur"
 date: "2020-06-05 11:00"
 author: liliana
-image: assets/images/eur.jpg
+image: assets/images/105299913_3035678026545359_7002868770568172432_n.jpg
 categories:
   - Visite
 tags:
@@ -23,3 +23,4 @@ Per info e prenotazioni [info@orbitarte.it](mailto:info@orbitarte.it?subject=10 
 
 
 Per rendere ogni esperienza più piacevole e sicura per il pubblico durante la visita  saranno osservate tutte le precauzioni anti covid19, in ottemperanza alle ultime normative.
+![]()
