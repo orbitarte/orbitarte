@@ -64,7 +64,7 @@ tags:
   - turismo
   - unione
   - valorizzazione
-featured: true
+featured: false
 ---
 A Favara, nel lato più a sud della Sicilia, tutto ci si aspetta di trovare meno che un centro sperimentale di arte contemporanea. Passando in Sicilia si è effettivamente sommersi dalla quantità di posti da vedere, cose da mangiare, esperienze da fare, ma trovare un po’ di tempo da trascorrere in un posto così inusuale e inaspettato è altrettanto importante, ne vale la pena, davvero. È gia di per sé un’esperienza raggiungere il Farm, inerpicarsi per le stradine di Favara inondata dal sole, sentire l’odore di un paese antico, misto a quello di cibo che proviene da chissà dove. Il percorso è un viaggio dentro se stessi, specie per chi in Sicilia ha affetti. È un misto di sensazioni concentrate, mescolate al sole e al mare che circonda l’isola.
 

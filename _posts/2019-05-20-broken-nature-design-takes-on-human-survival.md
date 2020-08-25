@@ -64,7 +64,7 @@ tags:
   - uomo
   - uovo
 
-featured: true
+featured: false
 description: "Questa mostra concentra gli ultimi risultati della ricerca scientifica applicata in vari campi, dall’ingegneria alla fisica, alla biologia, proprio per esplorare le possibili vie d’uscita dal tunnel che potrebbe portare all’estinzione l’essere umano."
 
 ---
