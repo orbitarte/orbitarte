@@ -3,7 +3,7 @@ layout: "post"
 title: "Guida all'esposizione d'arte diffusa e partecipata Io dico"
 date: "2020-08-25 08:05"
 author: liliana
-image: assets/images/coronari.jpg
+image: assets/images/io_dico.jpeg
 categories:
   - Blog
 tags:
