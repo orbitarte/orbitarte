@@ -3,7 +3,7 @@ layout: "post"
 title: "Verticalia @ RioneRoma"
 date: "2020-11-06 16:19"
 author: liliana
-image: assets/images/ienacruz_copertina.jpg
+image: assets/images/verticalia_locandina.jpg
 categories:
   - Blog
 tags:
