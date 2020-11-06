@@ -60,9 +60,9 @@ L’idea di verticalità e di ascensione rispecchia pienamente la location. Rion
 
 Rachele Azzarone - cresciuta a pane e Miyazaki, illustratrice con una forte vena introspettiva, affronta argomenti disparati con un approccio intimista e a tratti ironico. Ha collaborato a Winx, con lo studio Graphilm e ad altra progetti dell’agenzia Red Whale.  Nel 2017 fonda, insieme a amici e compagni di studi, il collettivo BlackBoard Autoproduzioni.
 
-(https://www.instagram.com/_racheleart_/?fbclid=IwAR1WmHzrvpNy9Opc7p8AQg9cWQrh8UuN3LuJ48d6v2-Og53l-QQiwhvJYMI)
+[RacheleArt](https://www.instagram.com/_racheleart_/?fbclid=IwAR1WmHzrvpNy9Opc7p8AQg9cWQrh8UuN3LuJ48d6v2-Og53l-QQiwhvJYMI)
 
-(https://issuu.com/blackboardautoproduzioni/docs)
+[BlackBoard](https://issuu.com/blackboardautoproduzioni/docs)
 
 
 
@@ -71,11 +71,11 @@ Rachele Azzarone - cresciuta a pane e Miyazaki, illustratrice con una forte vena
 
 Alessio Villotti - graphic designer e illustratore dalle mille sfaccettature, appassionato di musica e di arte. Si fa strada nella digital illustration e nel collagism, ispirandosi a figure contemporanee come Malika Favre, Olimpia Zagnoli, Franz Samsa e Nazario Graziano. Si appassiona in particolare al mondo dell’editoria (Armando Curcio, D Editore) e della musica (con i principali artisti del panorama rap italiano come Lazza, Capoplaza, Sick Luke e Canesecco) attraverso cui può liberamente esprimersi e respirare la libertà espressiva che tanto desidera.
 
-(https://bit.ly/AlessioVillottiBehance?fbclid=IwAR2x1qWOGwueuRD4P0sgY9VkOu-9c9DKyJ231b9tYOUr1hQEYMrr0eWxYco)
+[AlessioVillottiBehance](https://bit.ly/AlessioVillottiBehance?fbclid=IwAR2x1qWOGwueuRD4P0sgY9VkOu-9c9DKyJ231b9tYOUr1hQEYMrr0eWxYco)
 
-(https://www.linkedin.com/in/alessiovillotti/)
+[ALessio linkedin](https://www.linkedin.com/in/alessiovillotti/)
 
-(http://bit.ly/bluemagicOnInstagram)
+[bluemagicOnInstagram](http://bit.ly/bluemagicOnInstagram)
 
 
 
@@ -83,13 +83,13 @@ Alessio Villotti - graphic designer e illustratore dalle mille sfaccettature, ap
 
 Gabriele Rollo - Gulp3D - graphic designer e modellatore 3D. Attraverso il suo laboratorio riesce a incanalare al sua creatività in progetti che riflettono sull’uso quotidiano dell’arte contemporanea. Reduce dalla partecipazione all’esposizione diffusa e partecipata “Io dico” che si snoda lungo Via dei Coronari, patrocinata dal Comune di Roma, nell’ambito di RomaRama.
 
-(https://www.linkedin.com/in/gabriele-rollo-14a712142/)
+[Gabriele linkedin](https://www.linkedin.com/in/gabriele-rollo-14a712142/)
 
 [Gulp 3D](https://www.gulp3d.it)
 
-(https://instagram.com/gulp3d?igshid=1t2kf4hmebfnl)
+[Gulp3D Instagram](https://instagram.com/gulp3d?igshid=1t2kf4hmebfnl)
 
-(https://orbitarte.it/Io-dico-in-Via-dei-Coronari/)
+[OrbitArte Io dico](https://orbitarte.it/Io-dico-in-Via-dei-Coronari/)
 
 
 
@@ -97,15 +97,15 @@ Gabriele Rollo - Gulp3D - graphic designer e modellatore 3D. Attraverso il suo l
 
 Silvia Spadaro - Colordrop - graphic designer con la passione della fotografia, predilige un approccio all’arte pragmatico e pop, che poi esprime attraverso immagini nitide e di impatto. Specializzata nella creazione di stampe artistiche con tecnica Risograph, utilizza i colori per creare sfumature difficilmente realizzabili altrimenti. Anche lei ha concluso da poco la partecipazione all’esposizione di arte diffusa e partecipata “Io dico” che si snoda lungo Via dei Coronari, patrocinata dal Comune di Roma, nell’ambito di RomaRama.
 
-(https://www.behance.net/silviaspad38d4)
+[Silvia Behance](https://www.behance.net/silviaspad38d4)
 
-(https://instagram.com/colordrop_stampa?igshid=1clnme44k4jf7)
+[Colordrop Instagram](https://instagram.com/colordrop_stampa?igshid=1clnme44k4jf7)
 
-(https://www.facebook.com/ColordropStampaRisograph/)
+[ColordropStampaRisograph Facebook](https://www.facebook.com/ColordropStampaRisograph/)
 
 [Colordrop](https://www.colordrop.it)
 
-(https://orbitarte.it/Io-dico-in-Via-dei-Coronari/)
+[OrbitArte Io dico](https://orbitarte.it/Io-dico-in-Via-dei-Coronari/)
 
 
 
