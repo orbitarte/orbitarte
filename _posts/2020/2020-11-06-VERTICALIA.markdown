@@ -40,7 +40,7 @@ tags:
   - Rome_Art_Week_2020
 featured: true
 ---
-<center><iframe width="1050" height="788" src="https://youtu.be/fxqlLzvlIZ0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="1050" height="788" src="https://www.youtube.com/watch?v=fxqlLzvlIZ0&t=1s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 “Verticalia” è un progetto espositivo che coinvolge giovani artisti esordienti attivi nel territorio romano, con una attenzione particolare verso la grafica e l’illustrazione; le tavole esposte verranno stampate con Risograph, dello Studio Grafico Colordrop,  una particolare tecnica di stampa, versatile e perfetta per la creazione di stampe artistiche, che si avvale dell’utilizzo di una speciale stampante serigrafica in cui però in un’unica macchina si ha la matrice e l’inchiostrazione del foglio. Questo fa si che ogni tavola sia unica, che in ognuna ci sia un segno, un frammento di casualità che rende ancora più di valore il risultato finale. Si ribalta in tal modo l’idea di difetto, di imprecisione, che da valore negativo assume un valore positivo, inteso come unicità dell’opera. L’esposizione prende forma in simbiosi con lo spazio che la accoglie, nel nome sta anche il concetto che ne guida la nascita e lo sviluppo.
 
@@ -60,9 +60,10 @@ L’idea di verticalità e di ascensione rispecchia pienamente la location. Rion
 
 Rachele Azzarone - cresciuta a pane e Miyazaki, illustratrice con una forte vena introspettiva, affronta argomenti disparati con un approccio intimista e a tratti ironico. Ha collaborato a Winx, con lo studio Graphilm e ad altra progetti dell’agenzia Red Whale.  Nel 2017 fonda, insieme a amici e compagni di studi, il collettivo BlackBoard Autoproduzioni.
 
-https://www.instagram.com/_racheleart_/?fbclid=IwAR1WmHzrvpNy9Opc7p8AQg9cWQrh8UuN3LuJ48d6v2-Og53l-QQiwhvJYMI
+(https://www.instagram.com/_racheleart_/?fbclid=IwAR1WmHzrvpNy9Opc7p8AQg9cWQrh8UuN3LuJ48d6v2-Og53l-QQiwhvJYMI)
 
-https://issuu.com/blackboardautoproduzioni/docs
+(https://issuu.com/blackboardautoproduzioni/docs)
+
 
 
 
@@ -70,11 +71,11 @@ https://issuu.com/blackboardautoproduzioni/docs
 
 Alessio Villotti - graphic designer e illustratore dalle mille sfaccettature, appassionato di musica e di arte. Si fa strada nella digital illustration e nel collagism, ispirandosi a figure contemporanee come Malika Favre, Olimpia Zagnoli, Franz Samsa e Nazario Graziano. Si appassiona in particolare al mondo dell’editoria (Armando Curcio, D Editore) e della musica (con i principali artisti del panorama rap italiano come Lazza, Capoplaza, Sick Luke e Canesecco) attraverso cui può liberamente esprimersi e respirare la libertà espressiva che tanto desidera.
 
-https://bit.ly/AlessioVillottiBehance?fbclid=IwAR2x1qWOGwueuRD4P0sgY9VkOu-9c9DKyJ231b9tYOUr1hQEYMrr0eWxYco
+(https://bit.ly/AlessioVillottiBehance?fbclid=IwAR2x1qWOGwueuRD4P0sgY9VkOu-9c9DKyJ231b9tYOUr1hQEYMrr0eWxYco)
 
-https://www.linkedin.com/in/alessiovillotti/
+(https://www.linkedin.com/in/alessiovillotti/)
 
-http://bit.ly/bluemagicOnInstagram
+(http://bit.ly/bluemagicOnInstagram)
 
 
 
@@ -82,13 +83,13 @@ http://bit.ly/bluemagicOnInstagram
 
 Gabriele Rollo - Gulp3D - graphic designer e modellatore 3D. Attraverso il suo laboratorio riesce a incanalare al sua creatività in progetti che riflettono sull’uso quotidiano dell’arte contemporanea. Reduce dalla partecipazione all’esposizione diffusa e partecipata “Io dico” che si snoda lungo Via dei Coronari, patrocinata dal Comune di Roma, nell’ambito di RomaRama.
 
-https://www.linkedin.com/in/gabriele-rollo-14a712142/
+(https://www.linkedin.com/in/gabriele-rollo-14a712142/)
 
-www.gulp3d.it
+[Gulp 3D](https://www.gulp3d.it)
 
-https://instagram.com/gulp3d?igshid=1t2kf4hmebfnl
+(https://instagram.com/gulp3d?igshid=1t2kf4hmebfnl)
 
-https://orbitarte.it/Io-dico-in-Via-dei-Coronari/
+(https://orbitarte.it/Io-dico-in-Via-dei-Coronari/)
 
 
 
@@ -96,18 +97,18 @@ https://orbitarte.it/Io-dico-in-Via-dei-Coronari/
 
 Silvia Spadaro - Colordrop - graphic designer con la passione della fotografia, predilige un approccio all’arte pragmatico e pop, che poi esprime attraverso immagini nitide e di impatto. Specializzata nella creazione di stampe artistiche con tecnica Risograph, utilizza i colori per creare sfumature difficilmente realizzabili altrimenti. Anche lei ha concluso da poco la partecipazione all’esposizione di arte diffusa e partecipata “Io dico” che si snoda lungo Via dei Coronari, patrocinata dal Comune di Roma, nell’ambito di RomaRama.
 
-https://www.behance.net/silviaspad38d4
+(https://www.behance.net/silviaspad38d4)
 
-https://instagram.com/colordrop_stampa?igshid=1clnme44k4jf7
+(https://instagram.com/colordrop_stampa?igshid=1clnme44k4jf7)
 
-https://www.facebook.com/ColordropStampaRisograph/
+(https://www.facebook.com/ColordropStampaRisograph/)
 
-www.colordrop.it
+[Colordrop](https://www.colordrop.it)
 
-https://orbitarte.it/Io-dico-in-Via-dei-Coronari/
+(https://orbitarte.it/Io-dico-in-Via-dei-Coronari/)
 
 
 
 Musica di Mario Cianca - "Murano"
 
-https://droneworksinternational.bandcamp.com/album/mario-cianca-murano
+(https://droneworksinternational.bandcamp.com/album/mario-cianca-murano)
