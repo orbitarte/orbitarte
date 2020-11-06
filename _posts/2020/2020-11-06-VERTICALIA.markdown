@@ -40,7 +40,7 @@ tags:
   - Rome_Art_Week_2020
 featured: true
 ---
-<center><iframe width="1050" height="788" src="https://www.youtube.com/embed/fxqlLzvlIZ0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
 
 “Verticalia” è un progetto espositivo che coinvolge giovani artisti esordienti attivi nel territorio romano, con una attenzione particolare verso la grafica e l’illustrazione; le tavole esposte verranno stampate con Risograph, dello Studio Grafico Colordrop,  una particolare tecnica di stampa, versatile e perfetta per la creazione di stampe artistiche, che si avvale dell’utilizzo di una speciale stampante serigrafica in cui però in un’unica macchina si ha la matrice e l’inchiostrazione del foglio. Questo fa si che ogni tavola sia unica, che in ognuna ci sia un segno, un frammento di casualità che rende ancora più di valore il risultato finale. Si ribalta in tal modo l’idea di difetto, di imprecisione, che da valore negativo assume un valore positivo, inteso come unicità dell’opera. L’esposizione prende forma in simbiosi con lo spazio che la accoglie, nel nome sta anche il concetto che ne guida la nascita e lo sviluppo.
 
@@ -112,3 +112,7 @@ Silvia Spadaro - Colordrop - graphic designer con la passione della fotografia, 
 Musica di Mario Cianca - "Murano"
 
 [Murano](https://droneworksinternational.bandcamp.com/album/mario-cianca-murano)
+
+
+
+<center><iframe width="1050" height="788" src="https://www.youtube.com/embed/fxqlLzvlIZ0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
