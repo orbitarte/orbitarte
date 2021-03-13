@@ -16,7 +16,7 @@ Storica dell’arte bizantina laureata alla Sapienza.
 
 Ha seguito un corso presso il Pontificio Istituto di Archeologia Cristiana e un tirocinio alla Biblioteca Casanatense ed ha fatto parte della sezione didattica del Gruppo Archeologico Romano.
 
-Accompagnatore turistico abilitato, attualmente è operatore museale con Aditum Cultura presso il Museo dell’Alto Medioevo all’interno del Museo delle Civiltà. Sta attualmente frequentando l'anno propedeutico del Dottorato presso il Pontificio Istituto di Archeologia Cristiana di Roma.
+Accompagnatore turistico abilitato, attualmente è operatore museale con Aditum Cultura presso il Museo dell’Alto Medioevo all’interno del Museo delle Civiltà. Sta frequentando l'anno propedeutico del Dottorato presso il Pontificio Istituto di Archeologia Cristiana di Roma.
 
 I suoi interessi vanno dall’archeologia al medioevo, soprattutto del Vicino Oriente.
 
